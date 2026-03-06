@@ -3,7 +3,7 @@
 A full-stack business website built for a local veterinary clinic in Tangerang Selatan, Indonesia.
 
 ## Live Demo
-[View Site](https://osha-petcare.vercel.app) 
+[View Site](https://osha-petcare.vercel.app/) 
 
 ## Features
 
